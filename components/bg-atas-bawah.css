@@ -1,0 +1,23 @@
+.bg-atas-bawah-container {
+  width: 1607px;
+  height: 1000px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.bg-atas-bawah-bg-atas {
+  top: 0px;
+  left: 0px;
+  width: 842px;
+  height: 467px;
+  position: absolute;
+}
+.bg-atas-bawah-bg-bawah {
+  top: 415px;
+  right: 0px;
+  width: 729px;
+  position: absolute;
+  align-self: flex-end;
+}

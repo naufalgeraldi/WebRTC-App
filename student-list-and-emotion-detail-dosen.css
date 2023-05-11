@@ -1,0 +1,597 @@
+.bg-bawah-container {
+  display: flex;
+  position: relative;
+}
+.bg-bawah-bg-bawah {
+  width: 729px;
+  position: relative;
+  align-self: flex-end;
+}
+.bg-bawah-root-class-name {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+  align-self: flex-end;
+}
+.bg-bawah-root-class-name1 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name2 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name3 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name4 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name5 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name6 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name7 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.student-list-and-emotion-detail-dosen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.student-list-and-emotion-detail-dosen-navbar {
+  gap: 786px;
+  top: 19px;
+  left: 0px;
+  right: 0px;
+  width: 1530px;
+  height: 55px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.student-list-and-emotion-detail-dosen-frame1426 {
+  gap: 43px;
+  display: flex;
+  align-items: flex-start;
+}
+.student-list-and-emotion-detail-dosen-rectangle8 {
+  width: 50px;
+  height: 50px;
+  border-radius: 28px;
+}
+.student-list-and-emotion-detail-dosen-navlink {
+  display: contents;
+}
+.student-list-and-emotion-detail-dosen-back {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 12px;
+}
+.student-list-and-emotion-detail-dosen-chevronleft {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-frame20 {
+  gap: 20px;
+  top: 0px;
+  right: 0px;
+  width: 453px;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.student-list-and-emotion-detail-dosen-search {
+  gap: 10px;
+  width: 349px;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.student-list-and-emotion-detail-dosen-input {
+  height: auto;
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 1;
+  align-self: center;
+  box-sizing: content-box;
+  align-items: center;
+  border-color: rgba(209, 213, 219, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-50);
+}
+.student-list-and-emotion-detail-dosen-content {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.student-list-and-emotion-detail-dosen-search1 {
+  width: 18px;
+  height: 18px;
+}
+.student-list-and-emotion-detail-dosen-text {
+  color: var(--dl-color-gray-500);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 125%;
+}
+.student-list-and-emotion-detail-dosen-button {
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 8px;
+  align-self: center;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(28, 100, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-600);
+}
+.student-list-and-emotion-detail-dosen-search2 {
+  width: 20px;
+  height: 20px;
+}
+.student-list-and-emotion-detail-dosen-frame21 {
+  gap: 2px;
+  display: flex;
+  align-items: center;
+}
+.student-list-and-emotion-detail-dosen-rectangle25 {
+  width: 50px;
+  height: 50px;
+  border-radius: 33px;
+}
+.student-list-and-emotion-detail-dosen-chevrondown {
+  width: 30px;
+  height: 30px;
+}
+.student-list-and-emotion-detail-dosen-side-bar-full {
+  gap: 382px;
+  top: 238px;
+  left: 28px;
+  width: 50px;
+  height: 613px;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  flex-direction: column;
+}
+.student-list-and-emotion-detail-dosen-side-bar {
+  gap: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.student-list-and-emotion-detail-dosen-navlink1 {
+  display: contents;
+}
+.student-list-and-emotion-detail-dosen-dashboard {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: var(--dl-color-default-white);
+}
+.student-list-and-emotion-detail-dosen-chartpie {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-navlink2 {
+  display: contents;
+}
+.student-list-and-emotion-detail-dosen-conference {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: var(--dl-color-default-white);
+}
+.student-list-and-emotion-detail-dosen-cash {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-navlink3 {
+  display: contents;
+}
+.student-list-and-emotion-detail-dosen-class {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: var(--dl-color-blue-100);
+}
+.student-list-and-emotion-detail-dosen-usergroup {
+  top: 9px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-navlink4 {
+  display: contents;
+}
+.student-list-and-emotion-detail-dosen-notif {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student-list-and-emotion-detail-dosen-bell {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-chat {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  background-color: rgba(255, 255, 255, 1);
+}
+.student-list-and-emotion-detail-dosen-chat1 {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-cog {
+  left: 10px;
+  width: 30px;
+  bottom: 0px;
+  height: 30px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-detail-profile {
+  gap: 135px;
+  top: 123px;
+  left: 0px;
+  right: 0px;
+  width: 1198px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.student-list-and-emotion-detail-dosen-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 46px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-profil-content {
+  width: 1198px;
+  height: 611px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: var(--dl-color-blue-50);
+}
+.student-list-and-emotion-detail-dosen-head-content {
+  top: -119px;
+  left: 106px;
+  width: 989px;
+  height: 238px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student-list-and-emotion-detail-dosen-profile-pic {
+  top: 0px;
+  left: 374px;
+  width: 238px;
+  height: 238px;
+  position: absolute;
+  border-radius: 158px;
+}
+.student-list-and-emotion-detail-dosen-email {
+  gap: 10px;
+  top: 166px;
+  left: 0px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 21px;
+  background-color: var(--dl-color-default-white);
+}
+.student-list-and-emotion-detail-dosen-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.student-list-and-emotion-detail-dosen-email1 {
+  gap: 10px;
+  top: 166px;
+  left: 726px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 21px;
+  background-color: var(--dl-color-default-white);
+}
+.student-list-and-emotion-detail-dosen-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: left;
+  line-height: 120.00000476837158%;
+}
+.student-list-and-emotion-detail-dosen-isi-content {
+  gap: 20px;
+  top: 155px;
+  left: 25px;
+  width: 1152px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-round);
+}
+.student-list-and-emotion-detail-dosen-emosi-mahasiswa {
+  width: 566px;
+  height: 426px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.student-list-and-emotion-detail-dosen-text08 {
+  top: 26px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-group30 {
+  top: 69px;
+  left: 55px;
+  width: 457px;
+  height: 307px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.student-list-and-emotion-detail-dosen-polygon1 {
+  top: 19px;
+  left: 61px;
+  width: 314px;
+  height: 288px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-star1 {
+  top: 38px;
+  left: 93px;
+  width: 251px;
+  height: 251px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-text10 {
+  left: 195px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-text12 {
+  top: 97px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-text14 {
+  top: 288px;
+  left: 70px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-text16 {
+  top: 288px;
+  left: 304px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-text18 {
+  top: 97px;
+  left: 374px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-emosi-mahasiswa1 {
+  width: 566px;
+  height: 426px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: var(--dl-color-default-white);
+}
+.student-list-and-emotion-detail-dosen-text20 {
+  top: 26px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-text22 {
+  top: 199px;
+  left: 259px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.student-list-and-emotion-detail-dosen-ellipse396 {
+  top: 98px;
+  left: 168px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+}
+.student-list-and-emotion-detail-dosen-ellipse397 {
+  top: 98px;
+  left: 168px;
+  width: 231px;
+  height: 231px;
+  position: absolute;
+}

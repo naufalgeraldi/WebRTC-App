@@ -1,0 +1,19 @@
+.bg-atas-container {
+  display: flex;
+  position: relative;
+}
+.bg-atas-bg-atas {
+  width: 842px;
+  height: 467px;
+  position: relative;
+}
+.bg-atas-root-class-name {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}
+.bg-atas-root-class-name1 {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}

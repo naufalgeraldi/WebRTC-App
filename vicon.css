@@ -1,0 +1,1005 @@
+.bg-bawah-container {
+  display: flex;
+  position: relative;
+}
+.bg-bawah-bg-bawah {
+  width: 729px;
+  position: relative;
+  align-self: flex-end;
+}
+.bg-bawah-root-class-name {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+  align-self: flex-end;
+}
+.bg-bawah-root-class-name1 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name2 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name3 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name4 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name5 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name6 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+.bg-bawah-root-class-name7 {
+  right: 0px;
+  bottom: 0px;
+  position: absolute;
+}
+
+.vicon-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.vicon-navbar {
+  gap: 786px;
+  top: 19px;
+  left: 0px;
+  right: 0px;
+  width: 1530px;
+  height: 55px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.vicon-frame1426 {
+  gap: 43px;
+  display: flex;
+  align-items: flex-start;
+}
+.vicon-rectangle8 {
+  width: 50px;
+  height: 50px;
+  border-radius: 28px;
+}
+.vicon-navlink {
+  display: contents;
+}
+.vicon-back {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-width: 0px;
+  text-decoration: none;
+}
+.vicon-rectangle16 {
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 12px;
+}
+.vicon-chevronleft {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-text {
+  top: 9px;
+  left: 423px;
+  color: var(--dl-color-blue-600);
+  margin: auto;
+  position: absolute;
+}
+.vicon-frame20 {
+  gap: 20px;
+  top: 0px;
+  right: 0px;
+  width: 453px;
+  bottom: 0px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.vicon-search {
+  gap: 10px;
+  width: 349px;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.vicon-input {
+  height: auto;
+  display: flex;
+  padding: 12px 16px;
+  flex-grow: 1;
+  align-self: center;
+  box-sizing: content-box;
+  align-items: center;
+  border-color: rgba(209, 213, 219, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: var(--dl-color-gray-50);
+}
+.vicon-content {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+.vicon-search1 {
+  width: 18px;
+  height: 18px;
+}
+.vicon-text01 {
+  color: var(--dl-color-gray-500);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 125%;
+}
+.vicon-button {
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 8px;
+  align-self: center;
+  box-sizing: content-box;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(28, 100, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: var(--dl-color-primary-600);
+}
+.vicon-search2 {
+  width: 20px;
+  height: 20px;
+}
+.vicon-frame21 {
+  gap: 2px;
+  display: flex;
+  align-items: center;
+}
+.vicon-rectangle25 {
+  width: 50px;
+  height: 50px;
+  border-radius: 33px;
+}
+.vicon-chevrondown {
+  width: 30px;
+  height: 30px;
+}
+.vicon-side-bar-full {
+  gap: 382px;
+  top: 238px;
+  left: 28px;
+  width: 50px;
+  height: 613px;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  margin-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+}
+.vicon-side-bar {
+  gap: 21px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.vicon-navlink1 {
+  display: contents;
+}
+.vicon-dashboard {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: var(--dl-color-default-white);
+}
+.vicon-chartpie {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-navlink2 {
+  display: contents;
+}
+.vicon-conference {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: var(--dl-color-blue-100);
+}
+.vicon-cash {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-navlink3 {
+  display: contents;
+}
+.vicon-class {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.vicon-usergroup {
+  top: 9px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-navlink4 {
+  display: contents;
+}
+.vicon-notif {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.vicon-bell {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-chat {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  background-color: rgba(255, 255, 255, 1);
+}
+.vicon-chat1 {
+  top: 10px;
+  left: 10px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-cog {
+  left: 10px;
+  width: 30px;
+  bottom: 0px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-container1 {
+  top: 114px;
+  left: 0px;
+  right: 0px;
+  width: 1351px;
+  height: 874px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.vicon-vicon-content {
+  gap: 27px;
+  top: 0px;
+  left: 0px;
+  width: 970px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.vicon-vicon {
+  width: 971px;
+  height: 726px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-lecturer {
+  top: 0px;
+  left: 0px;
+  width: 970.75px;
+  height: 726px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-lecturer1 {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  width: 100%;
+  height: 726px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-profile-card {
+  gap: 2.8138978481292725px;
+  top: 662.25px;
+  left: 33.75506591796875px;
+  width: 162.95562744140625px;
+  height: 36.75px;
+  display: flex;
+  padding: 22.51118278503418px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 11.25559139251709px 22.51118278503418px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4.502236366271973px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+}
+.vicon-persinal-info {
+  gap: 31.16315269470215px;
+  width: 139.7472686767578px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vicon-name {
+  width: 140px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-text03 {
+  color: var(--dl-color-default-white);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 29.2155px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-audience {
+  gap: 16px;
+  top: 19px;
+  left: 828.875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.vicon-group27 {
+  width: 107px;
+  height: 105px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-rectangle19 {
+  top: 0px;
+  left: 0px;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-profile-card1 {
+  gap: 1.1185681819915771px;
+  top: 85px;
+  left: 27px;
+  width: 50px;
+  height: 16px;
+  display: flex;
+  padding: 8.948545455932617px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4.474272727966309px 8.948545455932617px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 1.7897090911865234px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+}
+.vicon-persinal-info1 {
+  gap: 12.387837409973145px;
+  width: 55.55170822143555px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vicon-name1 {
+  width: 56px;
+  height: 17px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-text04 {
+  color: var(--dl-color-default-white);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 11.61359691619873px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group17 {
+  right: 8px;
+  width: 20px;
+  bottom: 12px;
+  height: 19.04762077331543px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  background-color: rgba(240, 82, 82, 1);
+}
+.vicon-microphone {
+  top: 4.3915228843688965px;
+  left: 4.990626811981201px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.vicon-text06 {
+  top: 74px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group26 {
+  width: 107px;
+  height: 105.04762268066406px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-profile-card2 {
+  gap: 1.1185681819915771px;
+  top: 85px;
+  left: 27px;
+  width: 50px;
+  height: 16px;
+  display: flex;
+  padding: 8.948545455932617px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4.474272727966309px 8.948545455932617px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 1.7897090911865234px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+}
+.vicon-persinal-info2 {
+  gap: 12.387837409973145px;
+  width: 55.55170822143555px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vicon-name2 {
+  width: 56px;
+  height: 17px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-text08 {
+  color: var(--dl-color-default-white);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 11.61359691619873px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group16 {
+  right: 8px;
+  width: 20px;
+  bottom: 12px;
+  height: 19.04762077331543px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  background-color: rgba(14, 159, 110, 1);
+}
+.vicon-microphone1 {
+  top: 4.3915228843688965px;
+  left: 4.990626811981201px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.vicon-text10 {
+  top: 76px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group25 {
+  width: 107px;
+  height: 105.04762268066406px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-profile-card3 {
+  gap: 1.1185681819915771px;
+  top: 85px;
+  left: 27px;
+  width: 50px;
+  height: 16px;
+  display: flex;
+  padding: 8.948545455932617px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4.474272727966309px 8.948545455932617px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 1.7897090911865234px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+}
+.vicon-persinal-info3 {
+  gap: 12.387837409973145px;
+  width: 55.55170822143555px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vicon-name3 {
+  width: 56px;
+  height: 17px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-text12 {
+  color: var(--dl-color-default-white);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 11.61359691619873px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group15 {
+  right: 8px;
+  width: 20px;
+  bottom: 12px;
+  height: 19.04762077331543px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  background-color: rgba(28, 100, 242, 1);
+}
+.vicon-microphone2 {
+  top: 4.3915228843688965px;
+  left: 4.990626811981201px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.vicon-text14 {
+  top: 75.952392578125px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group24 {
+  width: 107px;
+  height: 105px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-rectangle22 {
+  top: 0px;
+  left: 0px;
+  width: 105px;
+  height: 105px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-profile-card4 {
+  gap: 1.1185681819915771px;
+  top: 83px;
+  left: 27px;
+  width: 50px;
+  height: 16px;
+  display: flex;
+  padding: 8.948545455932617px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4.474272727966309px 8.948545455932617px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 1.7897090911865234px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+}
+.vicon-persinal-info4 {
+  gap: 12.387837409973145px;
+  width: 55.55170822143555px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vicon-name4 {
+  width: 56px;
+  height: 17px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.vicon-text16 {
+  color: var(--dl-color-default-white);
+  width: 56px;
+  height: auto;
+  position: absolute;
+  font-size: 11.61359691619873px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-group14 {
+  right: 8px;
+  width: 20px;
+  bottom: 12px;
+  height: 19.04762077331543px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: var(--dl-radius-radius-round);
+  background-color: rgba(240, 82, 82, 1);
+}
+.vicon-microphone3 {
+  top: 4.3915228843688965px;
+  left: 4.990626811981201px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.vicon-text18 {
+  top: 72.90478515625px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 120.00000476837158%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.vicon-arrowsexpand {
+  top: 21px;
+  left: 28.875px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.vicon-seperator {
+  width: 948px;
+  height: 1px;
+}
+.vicon-action-bar {
+  gap: 250px;
+  width: 948px;
+  height: 60px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.vicon-volume {
+  top: 0px;
+  left: 0px;
+  width: 150px;
+  height: 56px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.vicon-action-button {
+  gap: 9px;
+  top: 0px;
+  left: 400px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.vicon-camera {
+  width: 59.20000076293945px;
+  height: 56.38554382324219px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 18.610000610351562px;
+}
+.vicon-videocamera {
+  top: 13px;
+  left: 15px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-mic {
+  width: 59.20000076293945px;
+  height: 56.38554382324219px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 18.610000610351562px;
+}
+.vicon-microphone4 {
+  top: 13px;
+  left: 14.795166015625px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-share-screen {
+  width: 59.20000076293945px;
+  height: 56.38554382324219px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 18.610000610351562px;
+}
+.vicon-collection {
+  top: 13px;
+  left: 15.590347290039062px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-menu {
+  width: 59.20000076293945px;
+  height: 56.38554382324219px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(229, 231, 235, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 18.610000610351562px;
+}
+.vicon-dotshorizontal {
+  top: 13px;
+  left: 15.385498046875px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-disconnect {
+  top: 0px;
+  right: 0px;
+  width: 59.20481872558594px;
+  height: 56.38554382324219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 18.610000610351562px;
+  justify-content: flex-end;
+  background-color: var(--dl-color-red-500);
+}
+.vicon-phonemissedcall {
+  top: 13px;
+  left: 15px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.vicon-chat-dummy {
+  top: 0px;
+  right: 0px;
+  width: 297px;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-radius: 20px;
+  background-color: rgba(243, 244, 246, 1);
+}
+.vicon-rectangle23 {
+  top: 105px;
+  left: 16.390727996826172px;
+  width: 264px;
+  height: 196px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-rectangle24 {
+  top: 786px;
+  left: 16.390727996826172px;
+  width: 264px;
+  height: 58px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-rectangle17 {
+  top: 21px;
+  left: 12.456954002380371px;
+  width: 131px;
+  height: 50px;
+  position: absolute;
+  border-radius: 33px;
+}
+.vicon-rectangle18 {
+  top: 21px;
+  left: 153.41722106933594px;
+  width: 131px;
+  height: 50px;
+  position: absolute;
+  border-radius: 33px;
+}
