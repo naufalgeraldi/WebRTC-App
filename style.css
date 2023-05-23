@@ -201,7 +201,7 @@
 }
 .teleport-show {
   display: flex !important;
-  transform: none !important;
+  transform: translateX(0%) !important;
 }
 .BodyType13 {
   font-size: 13px;

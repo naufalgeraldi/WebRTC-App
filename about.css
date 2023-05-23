@@ -169,17 +169,15 @@
   position: absolute;
 }
 
-.index-container {
+.about-container {
   width: 100%;
   display: flex;
   overflow: auto;
-  flex-wrap: wrap;
   min-height: 100vh;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
-  justify-content: flex-start;
 }
-.index-container1 {
+.about-container1 {
   top: 0px;
   left: 0px;
   right: 0px;
@@ -194,14 +192,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.index-emotion {
+.about-emotion {
   top: 0px;
   right: 0px;
   width: 608px;
   height: 1002px;
   position: absolute;
 }
-.index-container2 {
+.about-container2 {
   top: 273px;
   left: 0px;
   width: 787px;
@@ -212,14 +210,14 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.index-texture {
+.about-texture {
   top: 0px;
   left: 0px;
   width: 158px;
   height: 110px;
   position: absolute;
 }
-.index-headline {
+.about-headline {
   gap: 26px;
   top: 40px;
   left: 46px;
@@ -230,12 +228,12 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.index-headline1 {
+.about-headline1 {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
 }
-.index-text {
+.about-text {
   color: var(--dl-color-default-black);
   width: 741px;
   height: auto;
@@ -243,7 +241,7 @@
   line-height: 120.00000476837158%;
   text-decoration: none;
 }
-.index-text04 {
+.about-text04 {
   color: var(--dl-color-default-black);
   width: 741px;
   height: auto;
@@ -251,19 +249,19 @@
   text-align: left;
   line-height: 120.00000476837158%;
 }
-.index-text06 {
+.about-text06 {
   color: var(--dl-color-gray-600);
   width: 741px;
   height: auto;
   text-align: left;
   line-height: 120.00000476837158%;
 }
-.index-frame6 {
+.about-frame6 {
   gap: 40px;
   display: flex;
   align-items: flex-start;
 }
-.index-button {
+.about-button {
   gap: 8px;
   width: 203px;
   display: flex;
@@ -277,7 +275,7 @@
   text-decoration: none;
   background-color: var(--dl-color-primary-7002);
 }
-.index-text08 {
+.about-text08 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 16px;
